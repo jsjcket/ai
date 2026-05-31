@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "finance-assistant": {
+      "command": "python",
+      "args": ["-m", "modules.market_analyzer"],
+      "description": "金融理财助手 - 市场分析工具",
+      "enabled": true
+    }
+  }
+}
